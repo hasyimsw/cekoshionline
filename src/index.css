@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-banner {
+  background-image: url(assets/jkt48.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
